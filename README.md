@@ -4,6 +4,6 @@ forks and branches,
 
 forks and branches
 
-gotta have me some forks and branches
+I gotta have me some forks and brancheszzz
 
 ![alt text](assets/documentation/forksandbranches.gif)
