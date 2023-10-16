@@ -2,7 +2,7 @@
 
 forks and branches,
 
-forks and branches
+forks and branches are better than merge conflicts
 
 gotta have me some wassdhiusaehijhasEKJASEIUSADEFIUJHSACEIHUACDEWIHUADEW forks and branches
 
